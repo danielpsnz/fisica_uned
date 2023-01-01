@@ -95,6 +95,11 @@ header{
     width: 97.5%;
     border-bottom: 1px solid rgba(144, 114, 126, 0.2);
     background-color: var(--primary-color);
+    background-image: linear-gradient(
+      135deg,
+      var(--primary-color) 0%,
+      var(--secondary-color) 100%
+    );
     opacity: 0.95;
     z-index: 1;
 }
@@ -108,7 +113,7 @@ header{
 .navbar-brand {
     text-decoration: none;
     font-size: 2.5rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #FAFAFA;
 }
 
@@ -129,7 +134,7 @@ header .nav-link {
     text-decoration: none;
     font-size: 1.7rem;
     font-weight: 400;
-    color: #cccccc;
+    color: black;
     outline: none;
 }
 
@@ -150,8 +155,8 @@ header .nav-link:hover {
     max-width: 200px;    
     padding: 15px;
     border-radius: 6px;
-    border: 1px solid #FAFAFA;
-    color: #FAFAFA;
+    border: 1px solid black;
+    color: black;
     text-decoration: none;
     font-weight: 500;
     font-size: 1.6rem;
@@ -404,7 +409,7 @@ header .nav-link:hover {
     align-items: center;
     padding: 20px 15px;
     width: 343px;
-    height: 425px;
+    height: 650px;
     border-radius: 8px;
     border: 1px solid #171717;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -442,9 +447,10 @@ header .nav-link:hover {
 
 .btns-module {
     display: flex;
-    width: 100%;
-    justify-content: space-between;
+    flex-direction: column;
+    width: 300px;
     margin: 20px 0;
+    height: 100%;
 }
 
 .btns-module a {
@@ -462,10 +468,10 @@ header .nav-link:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
-.descargar, .experiencia {
+.descargar, .experiencia, .guia {
     background-color: var(--primary-color);
     border: 1px solid var(--primary-color);
-    color: #000;
+    color: #000;  
 }
 
 
