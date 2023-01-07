@@ -322,3 +322,25 @@ header {
     color: #000;  
 }
 
+.btns-sobremi {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin: 20px auto;
+    height: 100%;
+}
+
+.btns-sobremi a {
+    padding: 10px 20px;
+    margin-top: 10px;
+    outline: none;
+    font-size: 1.5rem;
+    font-weight: 500;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.btns-sobremi a:hover {
+    opacity: 0.8;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
