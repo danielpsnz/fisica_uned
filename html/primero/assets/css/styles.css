@@ -244,7 +244,7 @@ header {
     margin: 20px auto;
     padding: 20px 15px;
     width: 343px;
-    height: 650px;
+    height: 300px;
     border-radius: 8px;
     border: 1px solid #171717;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -265,16 +265,6 @@ header {
         align-items: center;
         margin: 20px auto;
     }
-}
-
-.cards-module img {
-    background-size: cover;
-    background-repeat: no-repeat;
-    max-width: 100%;
-    min-height: 50%;
-    object-fit: cover;
-    border-radius: 6px;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .module-info {
