@@ -510,16 +510,14 @@ header .btn:hover {
 
    /* FOOTER SECTION */
    .footer {
-    background-color: var(--dark-grey);
+    background-color: #444444;
     color: var(--white-color);
     padding: 4.8rem 0;
   }
-
   .footer__text {
     color: darken(var(--white-color), 50%);
     font-size: 1.3rem;
   }
-
   .footer__text a {
     color: darken(var(--white-color), 50%);
     font-size: 1.3rem;
@@ -527,7 +525,6 @@ header .btn:hover {
     display: inline-block;
     background-color: var(--dark-grey);
   }
-
   .footer__text a:hover, .footer__text a:active {
     color: var(--primary-color);
     -webkit-box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
@@ -537,7 +534,7 @@ header .btn:hover {
   .social-links {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
   }
 
   .social-links a {
@@ -545,10 +542,8 @@ header .btn:hover {
     flex-direction: column;
     justify-content: center;
     color: var(--white-color);
-    font-size: 3rem;
     width: 5rem;
     height: 5rem;
-    margin: var(--default-font-size);
     transition: all 0.2s ease-in;
   }
 
@@ -561,11 +556,9 @@ header .btn:hover {
     margin: 1rem 0 var(--default-font-size);
     transition: all 0.2s ease-in;
   }
-
   .back-to-top i:hover {
     transform: translateY(-2px);
   }
-
   .mb-8 {
     margin-bottom: 8rem !important;
 }
