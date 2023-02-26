@@ -7,6 +7,7 @@ import Guias from "./components/Guias/Guias";
 import Examenes from "./components/Examenes/Examenes";
 import SobreMi from "./components/Sobre_mi/Sobre_mi";
 import Footer from "./components/Footer";
+import FF1 from "./components/Experiencia/asignaturas/FF1"
 import {
   BrowserRouter as Router,
   Route,
@@ -42,6 +43,7 @@ function App() {
           <Route path="/examenes" element={<Examenes />} />
           <Route path="/sobremi" element={<SobreMi />} />
           <Route path="*" element={<Navigate to="/"/>} />
+          <Route path="/FF1" element={<FF1 />} />
         </Routes>
         <Footer />
       </div>

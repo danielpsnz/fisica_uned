@@ -299,7 +299,7 @@ button:focus {
   .Typewriter__wrapper {
     font-size: 1.4em !important;
     font-weight: 500 !important;
-    position: absolute !important;
+    position: relative !important;
   }
   .Typewriter__cursor {
     display: none !important;
@@ -443,7 +443,7 @@ button:focus {
   color: #a588c0 !important;
 }
 /* --------- */
-/* Projects */
+/* Experiencia */
 /* --------- */
 .project-section {
   position: relative !important;
@@ -567,6 +567,13 @@ button:focus {
   color: rgb(105, 138, 196);
 }
 
+.organizacion {
+  width: 100%;
+  padding: 0;
+  margin-top: 25px;
+  font-size: 1.2em;
+}
+
 .tech-icons {
   font-size: 4.5em !important;
   margin: 15px !important;
@@ -602,6 +609,13 @@ button:focus {
   border: none !important;
   color: white !important;
   background-color: transparent !important;
+}
+
+.experiencia-activity2 {
+  list-style: none !important;
+  text-align: left !important;
+  padding-left: 1px !important;
+  margin-top: 25px;
 }
 
 .experiencia-activity {

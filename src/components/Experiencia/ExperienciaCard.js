@@ -27,6 +27,9 @@ function ExperienciaCard() {
             <li className="experiencia-activity">
               <ImPointRight /> Dificultades y organización
             </li>
+            <li className="experiencia-activity">
+              <ImPointRight /> Apuntes
+            </li>
           </ul>
         </blockquote>
       </Card.Body>

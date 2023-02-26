@@ -76,9 +76,7 @@ function NavBar() {
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineFundProjectionScreen
-                  style={{ marginBottom: "2px" }}
-                />
-                Guías
+                  style={{ marginBottom: "2px" }} /> Guías
               </Nav.Link>
             </Nav.Item>
 
