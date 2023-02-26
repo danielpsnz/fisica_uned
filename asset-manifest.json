@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/fisica_uned/static/css/main.4b8a63ad.css",
+    "main.js": "/fisica_uned/static/js/main.80cf9793.js",
+    "static/js/415.ae4f11c2.chunk.js": "/fisica_uned/static/js/415.ae4f11c2.chunk.js",
+    "static/js/787.b175bd87.chunk.js": "/fisica_uned/static/js/787.b175bd87.chunk.js",
+    "static/media/analisis1_guia.pdf": "/fisica_uned/static/media/analisis1_guia.2d22a1b48e3c3cae8345.pdf",
+    "static/media/avatar.png": "/fisica_uned/static/media/avatar.32451edd94234a4e955c.png",
+    "static/media/analisis2_guia.pdf": "/fisica_uned/static/media/analisis2_guia.0f820e3b981dda7c1a19.pdf",
+    "static/media/fisica3_guia.pdf": "/fisica_uned/static/media/fisica3_guia.0c3eb01b64b5cf66fb99.pdf",
+    "static/media/fisica1_guia.pdf": "/fisica_uned/static/media/fisica1_guia.987afa4251174a65d75e.pdf",
+    "static/media/computacional1_guia.pdf": "/fisica_uned/static/media/computacional1_guia.ac11456ca54bee2a23d7.pdf",
+    "static/media/tcye_guia.pdf": "/fisica_uned/static/media/tcye_guia.86654cb2b811a0c4c365.pdf",
+    "static/media/fisica2_guia.pdf": "/fisica_uned/static/media/fisica2_guia.17cb6d9020d7e35e8e9b.pdf",
+    "static/media/electro1_guia.pdf": "/fisica_uned/static/media/electro1_guia.bf2865df451a94790e5f.pdf",
+    "static/media/electro2_guia.pdf": "/fisica_uned/static/media/electro2_guia.1bcdc43ca55950e50f4f.pdf",
+    "static/media/metodos1_guia.pdf": "/fisica_uned/static/media/metodos1_guia.568ef520add063042650.pdf",
+    "static/media/tecnicas1_guia.pdf": "/fisica_uned/static/media/tecnicas1_guia.9ba76d3c5a83cb0afe89.pdf",
+    "static/media/biologia_guia.pdf": "/fisica_uned/static/media/biologia_guia.3f0530e2e26a4916d5f1.pdf",
+    "static/media/quimica_guia.pdf": "/fisica_uned/static/media/quimica_guia.2116f574d74faf9325ad.pdf",
+    "static/media/metodos3_guia.pdf": "/fisica_uned/static/media/metodos3_guia.6379a96e573ea18006b0.pdf",
+    "static/media/algebra_guia.pdf": "/fisica_uned/static/media/algebra_guia.ec9b4fd7c5989d2187f5.pdf",
+    "static/media/guias.jpeg": "/fisica_uned/static/media/guias.061c35e1afc61067d5ea.jpeg",
+    "static/media/examenes.jpeg": "/fisica_uned/static/media/examenes.99cbd81c69fe40803b09.jpeg",
+    "static/media/home-main.png": "/fisica_uned/static/media/home-main.9827f9de4ef35997609d.png",
+    "static/media/logo.png": "/fisica_uned/static/media/logo.c7fb817d1d12e69a97b2.png",
+    "static/media/home-bg.jpg": "/fisica_uned/static/media/home-bg.2036fa1d5880e9b8338b.jpg",
+    "static/media/experiencia.jpeg": "/fisica_uned/static/media/experiencia.0bf22c33686dd322859d.jpeg",
+    "static/media/sobremi.jpeg": "/fisica_uned/static/media/sobremi.afdcaff4b314f4b86513.jpeg",
+    "static/media/pre.svg": "/fisica_uned/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/fisica_uned/index.html",
+    "main.4b8a63ad.css.map": "/fisica_uned/static/css/main.4b8a63ad.css.map",
+    "main.80cf9793.js.map": "/fisica_uned/static/js/main.80cf9793.js.map",
+    "415.ae4f11c2.chunk.js.map": "/fisica_uned/static/js/415.ae4f11c2.chunk.js.map",
+    "787.b175bd87.chunk.js.map": "/fisica_uned/static/js/787.b175bd87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b8a63ad.css",
+    "static/js/main.80cf9793.js"
+  ]
+}
