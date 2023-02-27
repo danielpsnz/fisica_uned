@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.50c554cc.css",
-    "main.js": "/static/js/main.b8694f99.js",
+    "main.js": "/static/js/main.577c18aa.js",
     "static/js/415.ae4f11c2.chunk.js": "/static/js/415.ae4f11c2.chunk.js",
     "static/js/787.b175bd87.chunk.js": "/static/js/787.b175bd87.chunk.js",
     "static/media/analisis1_guia.pdf": "/static/media/analisis1_guia.2d22a1b48e3c3cae8345.pdf",
     "static/media/avatar.png": "/static/media/avatar.32451edd94234a4e955c.png",
     "static/media/analisis2_guia.pdf": "/static/media/analisis2_guia.0f820e3b981dda7c1a19.pdf",
+    "static/media/Biologia.pdf": "/static/media/Biologia.da38351543747955516d.pdf",
     "static/media/fisica3_guia.pdf": "/static/media/fisica3_guia.0c3eb01b64b5cf66fb99.pdf",
     "static/media/fisica1_guia.pdf": "/static/media/fisica1_guia.987afa4251174a65d75e.pdf",
     "static/media/computacional1_guia.pdf": "/static/media/computacional1_guia.ac11456ca54bee2a23d7.pdf",
@@ -30,12 +31,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.50c554cc.css.map": "/static/css/main.50c554cc.css.map",
-    "main.b8694f99.js.map": "/static/js/main.b8694f99.js.map",
+    "main.577c18aa.js.map": "/static/js/main.577c18aa.js.map",
     "415.ae4f11c2.chunk.js.map": "/static/js/415.ae4f11c2.chunk.js.map",
     "787.b175bd87.chunk.js.map": "/static/js/787.b175bd87.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50c554cc.css",
-    "static/js/main.b8694f99.js"
+    "static/js/main.577c18aa.js"
   ]
 }
