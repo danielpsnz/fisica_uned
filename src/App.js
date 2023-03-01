@@ -8,6 +8,7 @@ import Examenes from "./components/Examenes/Examenes";
 import SobreMi from "./components/Sobre_mi/Sobre_mi";
 import Footer from "./components/Footer";
 import FF1 from "./components/Experiencia/asignaturas/FF1"
+import FF1_examenes from "./components/Examenes/asignaturas_files/FF1_examenes"
 import Biologia from "./components/Experiencia/asignaturas/Biologia"
 import {
   BrowserRouter as Router,
@@ -46,6 +47,7 @@ function App() {
           <Route path="*" element={<Navigate to="/"/>} />
           <Route path="/FF1" element={<FF1 />} />
           <Route path="/Biologia" element={<Biologia />} />
+          <Route path="/FF1_examenes" element={<FF1_examenes />} />
         </Routes>
         <Footer />
       </div>

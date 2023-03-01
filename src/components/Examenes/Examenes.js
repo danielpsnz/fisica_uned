@@ -1,8 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
-import Primero from "../Experiencia/Primero";
-import Segundo from "../Experiencia/Segundo";
+import Primero from "./Primero_examenes";
+import Segundo from "./Segundo_examenes";
 import ExamenesCard from "./ExamenesCard";
 import examenesImg from "../../Assets/examenes.jpeg"
 
