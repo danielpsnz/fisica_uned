@@ -8,8 +8,17 @@ import Examenes from "./components/Examenes/Examenes";
 import SobreMi from "./components/Sobre_mi/Sobre_mi";
 import Footer from "./components/Footer";
 import FF1 from "./components/Experiencia/asignaturas/FF1"
-import FF1_examenes from "./components/Examenes/asignaturas_files/FF1_examenes"
 import Biologia from "./components/Experiencia/asignaturas/Biologia"
+import FF1_examenes from "./components/Examenes/asignaturas_files/FF1_examenes"
+import B_examenes from "./components/Examenes/asignaturas_files/B_examenes"
+import Q_examenes from "./components/Examenes/asignaturas_files/Q_examenes"
+import MM1_examenes from "./components/Examenes/asignaturas_files/MM1_examenes"
+import FF2_examenes from "./components/Examenes/asignaturas_files/FF2_examenes"
+import FC1_examenes from "./components/Examenes/asignaturas_files/FC1_examenes"
+import TE1_examenes from "./components/Examenes/asignaturas_files/TE1_examenes"
+import Al1_examenes from "./components/Examenes/asignaturas_files/Al1_examenes"
+import An1_examenes from "./components/Examenes/asignaturas_files/An1_examenes"
+import An2_examenes from "./components/Examenes/asignaturas_files/An2_examenes"
 import {
   BrowserRouter as Router,
   Route,
@@ -48,6 +57,15 @@ function App() {
           <Route path="/FF1" element={<FF1 />} />
           <Route path="/Biologia" element={<Biologia />} />
           <Route path="/FF1_examenes" element={<FF1_examenes />} />
+          <Route path="/B_examenes" element={<B_examenes />} />
+          <Route path="/Q_examenes" element={<Q_examenes />} />
+          <Route path="/MM1_examenes" element={<MM1_examenes />} />
+          <Route path="/FF2_examenes" element={<FF2_examenes />} />
+          <Route path="/FC1_examenes" element={<FC1_examenes />} />
+          <Route path="/TE1_examenes" element={<TE1_examenes />} />
+          <Route path="/Al1_examenes" element={<Al1_examenes />} />
+          <Route path="/An1_examenes" element={<An1_examenes />} />
+          <Route path="/An2_examenes" element={<An2_examenes />} />
         </Routes>
         <Footer />
       </div>
